@@ -28,6 +28,6 @@ else if (lastnum < 6 && lastnum != 0)
 {
 printf("last digit of %d is %d and is less than 5\n", n, lastnum);
 }
-	return (0);
+return (0);
 }
 
